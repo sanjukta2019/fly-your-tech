@@ -158,8 +158,8 @@ Each appointment follows this structure:
 
 ```json
 {
-  "name": "Ankit",
-  "email": "ankit@gmail.com",
+  "name": "abcd",
+  "email": "abcd@gmail.com",
   "date": "2026-02-20",
   "time": "15:00"
 }
